@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 About Me :
-풀스택을 지향하는 백엔드 예비 개발자 박종우입니다.
+열정적이고 꾸준한 예비 개발자 손호현입니다.
 
 
 <br/>
@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub stats
-![hohyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohyeoniya&theme=cobalt&show_icons=true)
+![hohyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohyeoniya&theme=dracula&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hohyeoniya&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
