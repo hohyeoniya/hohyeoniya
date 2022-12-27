@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub stats
 ![hohyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohyeoniya&theme=dracula&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hohyeoniya&theme=cobalt&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hohyeoniya&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
