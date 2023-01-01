@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hohyeoniya/hohyeoniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,10 @@ Here are some ideas to get you started:
 
 ## 👋 About Me :
 열정적이고 꾸준한 예비 개발자 손호현입니다.
+
+## 📊 GitHub stats
+![hohyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohyeoniya&theme=buefy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hohyeoniya&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 <br/>
@@ -49,6 +51,3 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 📊 GitHub stats
-![hohyeoniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hohyeoniya&theme=buefy&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hohyeoniya&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
